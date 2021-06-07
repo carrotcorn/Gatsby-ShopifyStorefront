@@ -1,7 +1,7 @@
-siteTitle: headless.us
-siteUrl: 'https://headless.us'
+siteTitle: Gatsby Shopify Storefront dummy
+siteUrl: 'https://www.eric-bourne.com'
 siteDescription: >-
-  the shopify + gatsby starter theme for digital commerce
+  Gatsby Shopify Storefront Demo Store
 socialMediaCard:
   image: '/images/logo.png'
 googleTrackingId: UA-86276502-2
