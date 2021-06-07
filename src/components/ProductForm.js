@@ -141,7 +141,7 @@ const ProductForm = ({ product }) => {
         disabled={!available || adding}
         onClick={handleAddToCart}
       >
-        Get Started
+        ADD TO CART
       </button>
 
       <h3>
