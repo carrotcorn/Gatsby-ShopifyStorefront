@@ -6,7 +6,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-         by{' '}
+          by{' '}
           <a
             href="https://ecomloop.com"
             target="_blank"
@@ -14,7 +14,7 @@ export default () => (
           >
             Eric Bourne{' '}
           </a>{' '}
-          <br /> For Educational Purposes{new Date().getFullYear()}
+          <br /> For Educational Purposes {new Date().getFullYear()}
         </span>
       </div>
     </footer>
