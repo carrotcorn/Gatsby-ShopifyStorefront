@@ -8,7 +8,7 @@ export default () => (
         <span>
           by{' '}
           <a
-            href="https://ecomloop.com"
+            href="https://www.eric-bourne.com"
             target="_blank"
             rel="noopener noreferrer"
           >
